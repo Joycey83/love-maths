@@ -113,7 +113,7 @@ body {
 .btn--big::after {
     content: attr(data-type);
     font-size: 1rem;
-    color: #445361;
+    color:#445361;
     position: relative;
     left: -0.5rem;
 }
@@ -243,6 +243,7 @@ body {
     .btn--big {
         margin: 10px 10px;
     }
+
     .question-area {
         padding: 10px 0;
     }
